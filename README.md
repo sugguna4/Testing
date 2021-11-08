@@ -3,9 +3,6 @@
 https://teams.microsoft.com/l/meetup-join/19:meeting_N2EzMjMxMDEtOTg0Yi00MzY4LWFmNzQtYzQ1NGU0NzAzYjE0@thread.v2/0?context=%7B%22Tid%22:%2224db7bee-c623-4542-897e-0b446de1e048%22,%22Oid%22:%22ce7de1e6-80e3-4173-889b-3b0dc1cd960a%22%7D
 
 
-https://teams.live.com/meet/93103280227088
-
-
 
 graphql-java Blog & Site:
 
